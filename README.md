@@ -1,9 +1,7 @@
 # Saberion-Test
 
-This repository contains an assessment task provided by Saberion. The main purpose is to showcase a website, with the preview available in the `main.html` file.
+This repository contains an assessment task given to me by Saberion.
 
-Please note that this project is not a comprehensive representation of my abilities. Currently, my focus lies more on App Development and Machine Learning rather than Web Development. However, I am committed to improving this project further.
+To preview the site, simply click open the `main.html` file. Please note that this is not a comprehensive showcase of my abilities. Currently, I'm more focused on App Development and ML rather than Web Dev, but I'm still committed to delivering quality work. 
 
-Kindly open the `main.html` file to preview the website. Keep in mind that this is what I could achieve within a limited timeframe of 4 hours, especially considering I was not feeling well during the development process.
-
-Moving forward, I will continue to work on enhancing the complete page. Your feedback and suggestions are highly appreciated. Thank you! 🙏🏽
+I spent about 4 hours on this project, despite being sick, so it's still a work in progress. Moving forward, I'll continue working on completing the page.
